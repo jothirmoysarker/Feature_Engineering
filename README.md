@@ -1,8 +1,11 @@
 # Feature Engineering Lab
 
-A practical collection of feature engineering techniques and preprocessing workflows used to improve the performance of machine learning models.
+A practical collection of feature engineering techniques and preprocessing workflows designed by Kaggle, which are used to improve the performance of machine learning models.
 
 This repository serves as a learning resource and reference for preparing high-quality datasets before model training.
+
+You can find the official Kaggle course here: [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+
 
 ## Topics Covered
 
