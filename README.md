@@ -6,23 +6,23 @@ This repository serves as a learning resource and reference for preparing high-q
 
 ## Topics Covered
 
-- 📊 Data Cleaning
-- 🔍 Missing Value Imputation
-- 📈 Feature Scaling
+- Data Cleaning
+- Missing Value Imputation
+- Feature Scaling
   - Standardization
   - Normalization
-- 🔢 Categorical Encoding
+- Categorical Encoding
   - Label Encoding
   - One-Hot Encoding
   - Ordinal Encoding
-- 📅 Date & Time Feature Extraction
-- 🎯 Feature Selection
-- 📉 Dimensionality Reduction
-- 🚨 Outlier Detection & Treatment
-- ⚖️ Handling Imbalanced Data
-- 🔄 Feature Transformation
-- 🔧 Scikit-learn Pipelines
-- 📦 ColumnTransformer
+- Date & Time Feature Extraction
+- Feature Selection
+- Dimensionality Reduction
+- Outlier Detection & Treatment
+- Handling Imbalanced Data
+- Feature Transformation
+- Scikit-learn Pipelines
+- ColumnTransformer
 
 ## Technologies
 
